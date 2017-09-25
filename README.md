@@ -1,0 +1,1 @@
+Copy of Scikit-image from http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image 
